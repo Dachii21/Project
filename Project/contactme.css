@@ -46,5 +46,8 @@ div {
     justify-content: center;
 }
 
+footer {
+    color: black;
+}
 @media (max-width: 425px) {
 }

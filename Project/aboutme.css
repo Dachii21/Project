@@ -34,6 +34,10 @@ p {
     text-align: center;
 }
 
+footer {
+    color: black;
+}
+
 @media (max-width: 425px) {
     
 }

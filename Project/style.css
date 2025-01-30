@@ -58,6 +58,10 @@ p {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+footer {
+  color: black;
+}
+
 @media (max-width: 425px) {
     img {
       width: 300px;
