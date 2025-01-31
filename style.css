@@ -59,7 +59,7 @@ p {
 }
 
 footer {
-  color: black;
+  background-color: black
 }
 
 @media (max-width: 425px) {
